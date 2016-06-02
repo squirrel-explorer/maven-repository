@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.eagleeye.gradle</groupId>
+  <groupId>com.squirrel_explorer.eagleeye</groupId>
   <artifactId>codescanning_plugin</artifactId>
   <versioning>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160601104419</lastUpdated>
+    <lastUpdated>20160602050114</lastUpdated>
   </versioning>
 </metadata>
